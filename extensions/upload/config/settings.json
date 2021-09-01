@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "amaben",
+    "api_key": "167243632659323",
+    "api_secret": "Pk3ZVugzukMaUJdk594KAGEfmBo"
+  }
+}
