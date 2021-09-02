@@ -23,6 +23,15 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "details": {
+      "type": "string"
+    },
+    "size1": {
+      "type": "string"
+    },
+    "size2": {
+      "type": "string"
     }
   }
 }
